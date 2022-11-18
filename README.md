@@ -32,6 +32,7 @@
     
     NOTE:  To run this test correctly, your hardware must be register-compatible
     with CGA.  To determine that, you can use Trixter's CGA Compatibility Tester
-    (http://www.oldskool.org/pc/cgacomp).
-    ÿ
-![Results with a 100% matching font (left) vs. a non-matching font (right)](../images/compare.gif?raw=true)
+    (http://www.oldskool.org/pc/cgacomp).  
+    
+![Results with a 100% matching font (left) vs. a non-matching font (right)](../images/compare.gif?raw=true)  
+*Results with a 100% matching font (left) vs. a non-matching font (right)*
